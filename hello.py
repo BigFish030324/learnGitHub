@@ -1,5 +1,5 @@
 print("hello world")
-print("Doraemon")
+print("Dragonball Z")
 
 x = 15
 y = 20

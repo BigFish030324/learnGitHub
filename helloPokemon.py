@@ -1,6 +1,5 @@
 print("Pokemon")
 print("Fire Red")
-print("Roar")
 
 x = 15
 y = 20

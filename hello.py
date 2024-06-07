@@ -1,5 +1,5 @@
 print("hello world")
-print("Bye World")
+print("No GAY!")
 
 x = 15
 y = 20

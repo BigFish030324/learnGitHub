@@ -1,5 +1,5 @@
 print("Pokemon")
-print("Fire Red")
+print("Fire Red?")
 
 x = 15
 y = 20
